@@ -1,0 +1,48 @@
+{
+    "username":"William",
+    "namaPerusahaan":"WIDE",
+   "title":"hello",
+   "subtitle":"world",
+   "menu":[
+    {
+        "icon":"transfer.svg",
+        "title":"Transfer"
+       },
+       {
+        "icon":"payment.svg",
+        "title":"Payment"
+       },
+       {
+        "icon":"wallet.svg",
+        "title":"Purchase"
+       },
+       {
+        "icon":"emoney.svg",
+        "title":"E-Money"
+       },
+       {
+        "icon":"loan.svg",
+        "title":"Cash Loan"
+       },
+       {
+        "icon":"autodebet.svg",
+        "title":"Auto Installment"
+       },
+       {
+        "icon":"pending.svg",
+        "title":"Pending Transaction"
+       },
+       {
+        "icon":"cardless.svg",
+        "title":"Cardless"
+       },
+       {
+        "icon":"spending.svg",
+        "title":"Spendings"
+       },
+       {
+        "icon":"more.svg",
+        "title":"More"
+       }
+   ]
+}
