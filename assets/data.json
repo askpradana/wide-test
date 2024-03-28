@@ -1,8 +1,8 @@
 {
     "username":"William",
     "namaPerusahaan":"WIDE",
-   "title":"hello",
-   "subtitle":"world",
+    "subtitle1":"Current & Savings Account",
+    "subtitle2":"Time Deposit",
    "menu":[
     {
         "icon":"transfer.svg",
